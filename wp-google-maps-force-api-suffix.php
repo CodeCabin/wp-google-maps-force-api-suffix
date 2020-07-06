@@ -12,3 +12,4 @@ add_filter('wpgmza_google_maps_api_params', function($params) {
 	return $params;
 	
 });
+
